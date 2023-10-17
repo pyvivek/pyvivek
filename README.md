@@ -1,4 +1,4 @@
-![logo](https://github.com/pyvivek/pyvivek/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 <h3 align="center">"Exploring, Analyzing, and Visualizing Data: A Data Science Journey" Science Journey"</h3>
 
